@@ -1,4 +1,4 @@
 ---
+category: "AnotherTest"
 title: "Test"
-excerpt: ""
 ---
